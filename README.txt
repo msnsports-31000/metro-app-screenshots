@@ -1,4 +1,4 @@
-Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly! (if there are no screenshot names, it would appear as Screenshot 1)
+Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly! (if there are no screenshot names, it would appear as Screenshot 1,2,3,4,5)
 Starting from A to Z
 Adobe Photoshop Express:
 1.Explore how easy it is to enhance your photos - from cropping to one-touch auto fix and cool looks.
