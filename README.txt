@@ -1,4 +1,4 @@
-Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly! (if there are no screenshot names, it would appear as Screenshot 1,2,3,4,5,6,7,8,9 and 10!)
+Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly!
 Starting from A to Z
 Adobe Photoshop Express:
 1.Explore how easy it is to enhance your photos - from cropping to one-touch auto fix and cool looks.
@@ -63,11 +63,11 @@ Dell | Getting Started with Windows 8:
 3.FAQs
 4.FAQ
 Flow Free:
-1.Screenshot 1
-2.Screenshot 2
-3.Screenshot 3
-4.Screenshot 4
-5.Screenshot 5
+1.
+2.
+3.
+4.
+5.
 Fruit Ninja:
 1.Combo BLITZ!
 2.Arcade mode has special bananas!
@@ -92,15 +92,15 @@ Network Speed Test:
 3. 3. See the results of previous tests you have run.
 4. 4. Network Speed Test will warn you before you run it on a cellular connection so that you don’t use up your data plan.
 newsXpresso:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1.A fully personalized news reading experience for Windows 8.1
+2.Chic magazine style layout
+3.Near-print quality reading experience
+4.View all articles
+5.Easy to navigate Catalog, comprising of an extensive list of over 9000 news sources
+6.YouTube Video
+7.YouTube Video
+8.Cover photos of headline pictures
+9.YouTube Video
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
