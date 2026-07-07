@@ -1,4 +1,4 @@
-Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly! (if there are no screenshot names, it would appear as Screenshot 1,2,3,4,5)
+Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly! (if there are no screenshot names, it would appear as Screenshot 1,2,3,4,5,6,7,8,9 and 10!)
 Starting from A to Z
 Adobe Photoshop Express:
 1.Explore how easy it is to enhance your photos - from cropping to one-touch auto fix and cool looks.
@@ -84,53 +84,54 @@ Movie Moments:
 1.Pick your favorite 60 seconds. You can trim from the beginning, middle, or end.
 2.Highlight your favorite moments with fun, colorful captions.
 3.Choose a style that suits the mood.
-4.
+4.Emphasize words and phrases to make your point.
+5.Make your home videos look like professional movies in minutes.
 Network Speed Test:
-1.
-2.
-3.
-4.
+1. 1. Press start and then wait for the speed tests to finish.
+2. 2. See what kinds of activities your network connection allows, such as stream high-quality video.
+3. 3. See the results of previous tests you have run.
+4. 4. Network Speed Test will warn you before you run it on a cellular connection so that you don’t use up your data plan.
 Reddit2Go:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.View links on the left, story or comments on the right
+2.Bring up the sidebar content to the current subreddit.
+3.Select a link for quick actions like voting or opening in a browser
+4.The landing page has tiles for the front page, subreddits, etc.
+5.You can view a story in split mode to see it and its comments at the same time
+6.The light theme.
+7.In snapped mode, clicking a link launches it in the browser. You can also open its comments.
 RemindMe for Windows:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.Easily create reminders for absolute times. You can even set them to repeat themselves automatically.
+2.Easily create reminders for a relative time, like 20 minutes. Great for countdowns!
+3.View a reminder in detail. See the entire countdown, edit, pause, and otherwise manage your reminders.
+4.RemindMe has tons of powerful settings, ranging from color themes to the live tile!
+5.Live tiles, notifications, secondary tiles, and lock screen integration with Windows 8.1
+6.View all of your reminders at a glance. See those countdowns? They update live!
+7.Keep track of your reminders while doing other things with snap view
 Surface Trackpad Settings:
-1.
+1.Control tap gestures
 Todo:
-1.
-2.
-3.
-4.
-5.
+1.Manually reorder tasks and sub tasks
+2.Review and edit task details
+3.Snapped view lists
+4.Snapped view tasks
+5.Snapped view tasks details
 Verizon Connection Manager:
-1.
-2.
-3.
+1.Home screen
+2.Device information
+3.Help
 Vinyle:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.Search Music
+2.Search Music
+3.Play Music
+4.Current Playlist
+5.Alternatives
+6.Video View
+7.Dialogs
 Youtube FM
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.Search Music
+2.Search Music
+3.Play Music
+4.Video View
+5.Current Playllist
+6.Alternatives
+7.Dialogs
