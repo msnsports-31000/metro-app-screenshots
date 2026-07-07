@@ -91,6 +91,16 @@ Network Speed Test:
 2. 2. See what kinds of activities your network connection allows, such as stream high-quality video.
 3. 3. See the results of previous tests you have run.
 4. 4. Network Speed Test will warn you before you run it on a cellular connection so that you don’t use up your data plan.
+newsXpresso:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
