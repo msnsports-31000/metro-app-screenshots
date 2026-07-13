@@ -1,5 +1,12 @@
 Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly!
-Starting from A to Z
+Starting from A to Z, and 1 to 10.
+8Zip:
+1.Compression options
+2.Preferences
+3.Multilingual interface
+4.Built-in media player
+5.Built-in document viewer
+6.Use two apps at the same time
 Adobe Photoshop Express:
 1.Explore how easy it is to enhance your photos - from cropping to one-touch auto fix and cool looks.
 2.Crop, straighten and rotate to put the focus just where you want it.
