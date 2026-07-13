@@ -109,11 +109,34 @@ Movie Moments:
 3.Choose a style that suits the mood.
 4.Emphasize words and phrases to make your point.
 5.Make your home videos look like professional movies in minutes.
+Nate & Frenchy's Life Coach:
+1. Get excellent (and often hilarious) life changing advice from Nate & Frenchy!
+2. Get in touch with your biorhythms!
+3. Allow Nate & Frenchy to monitor your endoplasmic reticulum!
+4. Easy to use, but make sure either your finger touches, or your retina is peeled!
+5. Get real advice and actions to take to motivate you to change your life!
+6. Take the challenge and guarantee a "life change"!
+7. Easily share your advice with others, even via popular Social apps!
+8. Nate & Frenchy speak EVERY language! Double-tap to translate!
+Nate & Frenchy's Random Axe:
+1.Let Nate & Frenchy help you get your "random on"!
+2.So easy and cool to use!
+3.Get random facts, insults, numbers, passwords, and more!
+4.Super cool random facts!
+5.Even cooler random insults!
+6.Generate GOOD, USABLE and configurable passwords!
+7. ...even generate random numbers between 1 and 32,000!
+Nate & Frenchy's Translator
+1. The cleanest, coolest user interface for Windows 8!
+2. Translate to and from one of 39 supported languages!
+3. Share content to and from any app that supports text, including web pages!
+4. Support for special character sets, and spoken translations for the most common languages worldwide!
+5. Share translated content into any Share supported app, including third-party social apps!
 Network Speed Test:
-1. 1. Press start and then wait for the speed tests to finish.
-2. 2. See what kinds of activities your network connection allows, such as stream high-quality video.
-3. 3. See the results of previous tests you have run.
-4. 4. Network Speed Test will warn you before you run it on a cellular connection so that you don’t use up your data plan.
+1.Press start and then wait for the speed tests to finish.
+2.See what kinds of activities your network connection allows, such as stream high-quality video.
+3.See the results of previous tests you have run.
+4.Network Speed Test will warn you before you run it on a cellular connection so that you don’t use up your data plan.
 newsXpresso:
 1.A fully personalized news reading experience for Windows 8.1
 2.Chic magazine style layout
@@ -124,6 +147,16 @@ newsXpresso:
 7.YouTube Video
 8.Cover photos of headline pictures
 9.YouTube Video
+PhotoWindow:
+1.Top page.
+2.Thumbnail View (Medium)
+3.Thumbnail View (Large)
+4.Thumbnail View (Small)
+5.Select from templates.
+6.Photo layout screen made from template.
+7.You can adjust color, zoom in, zoom out, move the cropping area. It is determined by tap the back button.
+8.The selected photo has been placed.
+9.Slideshow
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
