@@ -22,6 +22,15 @@ Adobe Reader Touch:
 6.Viewing a Note
 7.PDF Forms
 8.Save
+Bank Of America:
+1.Account Details
+2.Billpay
+3.Transfers
+4.Mobile Check Deposit
+5.Deals
+6.Alerts
+7.Contact Us
+8.Accounts Overview
 Beat The Boss 2:
 1.100+ Weapons!100+ all new skull cracking, bone breaking, nerve-racking weapons.
 2.Physics Simulated fun!
@@ -33,15 +42,6 @@ BLINK Cliplets:
 3.Create your own cliplet by using simple painting gestures to add motion to a stationary background.
 4.Share your cliplets with just your friends or the whole world, using BLINK.so.cl, Facebook, or Twitter.
 5.View, edit, share, or export any of your cliplet projects from within the application.
-Bank Of America:
-1.Account Details
-2.Billpay
-3.Transfers
-4.Mobile Check Deposit
-5.Deals
-6.Alerts
-7.Contact Us
-8.Accounts Overview
 CNN App for Windows:
 1.Stay informed with the latest headlines and original stories from around the globe.
 2.Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.
