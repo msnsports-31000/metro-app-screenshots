@@ -55,19 +55,28 @@ Cut The Rope 2:
 4.ALL NEW MISSIONS TO COMPLETE
 5.ALL NEW ADVENTURES FOR OM NOM
 Daily Pic:
-1.
-2.
+1.the current Bing wallpaper in large scale
+2.various settings
 Dell | Getting Started with Windows 8:
 1.Welcome
 2.Video
 3.FAQs
 4.FAQ
+Files&Folders (Lite and Pro)
+1.Personalize your file browser with different themes.
+2.RAR, ZIP, 7z... open and extract all popular archive types with Files&Folders
+3.All in one file browser. (promotion image)
+4.Easy way to manage your files and folders.
+5.Look at your files differently.
+6.Files&Folders is fully functional in Snapped mode.
+7.Enhance your productivity with Search and Share Charms.
+8.Powerful media player for videos, music and pictures and documents.
 Flow Free:
-1.
-2.
-3.
-4.
-5.
+1.none
+2.none
+3.none
+4.none
+5.none
 Fruit Ninja:
 1.Combo BLITZ!
 2.Arcade mode has special bananas!
