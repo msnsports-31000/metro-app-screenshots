@@ -147,6 +147,10 @@ newsXpresso:
 7.YouTube Video
 8.Cover photos of headline pictures
 9.YouTube Video
+Particle System:
+1. Particle System
+2. Particle System II
+3. Letter Particle System
 PhotoWindow:
 1.Top page.
 2.Thumbnail View (Medium)
