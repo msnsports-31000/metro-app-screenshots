@@ -89,6 +89,13 @@ Jetpack Joyride:
 2.Featuring crazy gadgets and vehicles.
 3.Say hello to Mr. Cuddles.
 4.Watch out for missiles!
+Metro Commander:
+1.Main page, Classic theme
+2.App bars, Dark Knight theme
+3.Classic view
+4.Preferences, Sunny Day theme
+5.Preview
+6.Viewer
 Movie Moments:
 1.Pick your favorite 60 seconds. You can trim from the beginning, middle, or end.
 2.Highlight your favorite moments with fun, colorful captions.
