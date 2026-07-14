@@ -96,6 +96,10 @@ Fruit Ninja:
 4.Slice fruit to get exciting combos!
 5.So juicy!
 6.Avoid bombs!
+How the Grinch Stole Christmas! - Dr. Seuss:
+1.How the Grinch Stole Christmas! - Dr. Seuss, main menu
+2.Tap individual words and pictures to hear them read aloud
+3.Words highlight with professional narration
 Jetpack Joyride:
 1.Collect coins whilst avoiding Zappers!
 2.Featuring crazy gadgets and vehicles.
@@ -207,6 +211,10 @@ RemindMe for Windows:
 7.Keep track of your reminders while doing other things with snap view
 Surface Trackpad Settings:
 1.Control tap gestures
+The Cat in the Hat - Dr. Seuss:
+1.One of the top selling children's books of all time
+2.See words highlight with professional narration
+3.Tap individual words and pictures
 Todo:
 1.Manually reorder tasks and sub tasks
 2.Review and edit task details
