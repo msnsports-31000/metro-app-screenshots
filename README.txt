@@ -114,6 +114,11 @@ Movie Moments:
 3.Choose a style that suits the mood.
 4.Emphasize words and phrases to make your point.
 5.Make your home videos look like professional movies in minutes.
+My Verizon Mobile:
+1.Profile
+2.Device Info
+3.Usage Overview
+4.Home
 Nate & Frenchy's Life Coach:
 1. Get excellent (and often hilarious) life changing advice from Nate & Frenchy!
 2. Get in touch with your biorhythms!
