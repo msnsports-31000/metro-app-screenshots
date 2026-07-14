@@ -36,6 +36,30 @@ Bank Of America:
 6.Alerts
 7.Contact Us
 8.Accounts Overview
+BBC Earth Wonders:
+1.Explore the natural world one fact at a time.
+2.A Picture of the day - every day.
+3.Explore interesting facts, stunning imagery and HD video of our beautiful planet.
+4.Browse our extensive library of fascinating and informative content.
+5.Help is always at hand as you explore our world your way.
+6.Go back in time through our Picture of the day archives.
+7.Stunning high equality HD video at your fingertips.
+BBC Good Food – Healthy recipes cookbook
+1.You can't help but be tempted by our healthy recipes.
+2.Not sure what that really means? The included glossary is there to help.
+3.There is always something to learn and our videos help you on some tough topics.
+4.Not sure about your numbers? We've got it covered.
+5.Recipes are simple to follow with the app's clean layout.
+6.Mark off your ingredients or steps as you're done.
+7.Keep track of your favourite recipes and be tempted by seeing them on your live tiles.
+BBC Good Food – Quick recipes cookbook
+1.There are no excuses with our quick recipes.
+2.Not sure what that really means? The included glossary is there to help.
+3.There is always something to learn and our videos help you on some tough topics.
+4.Not sure about your numbers? We've got it covered.
+5.Recipes are simple to follow with the app's clean layout.
+6.Mark off your ingredients or steps as you're done.
+7.Keep track of your favourite recipes and be tempted by seeing them on your live tiles.
 Beat The Boss 2:
 1.100+ Weapons!100+ all new skull cracking, bone breaking, nerve-racking weapons.
 2.Physics Simulated fun!
