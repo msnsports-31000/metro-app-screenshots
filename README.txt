@@ -22,6 +22,11 @@ Adobe Reader Touch:
 6.Viewing a Note
 7.PDF Forms
 8.Save
+1.Angry Birds Star Wars
+2.Birds with Lightsabers!
+3.The Classic Trilogy Relived!
+4.Epic Land and Space Battles! 
+5.Join the Final Battle! 
 Bank Of America:
 1.Account Details
 2.Billpay
