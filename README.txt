@@ -119,6 +119,24 @@ My Verizon Mobile:
 2.Device Info
 3.Usage Overview
 4.Home
+MSN Food & Drink:
+1.The essential tools and content at your fingertips.
+2.Hundreds of thousands of recipes with beautiful images, step-by-step instructions and an integrated Shopping List.
+3.Simplify “What’s for dinner?” Choose recipes from your favorite magazines, world-famous chefs, bloggers and fellow home cooks.
+4.Improve your skills with Cooking School videos, and tips-and-techniques articles.
+5.Learn how to make world-famous chefs’ own recipes.
+6.Create and manage collections of recipes, cocktails and wines.
+7.View tasting notes and expert scores to make an educated wine choice.
+8.Simple steps help you create the perfect drink.
+MSN Health & Fitness:
+1.Trackers and featured content at your fingertips!
+2.Watch videos of over 300 workouts and 900+ exercises and yoga poses
+3.Learn more about and follow your favorite workouts
+4.Set your daily calorie target and count calories.
+5.Track your workouts and exercises
+6.Personalize your app based on your fitness and nutritional goals
+7.Associate symptoms with possible conditions.
+8.Learn more about human anatomy
 Nate & Frenchy's Life Coach:
 1. Get excellent (and often hilarious) life changing advice from Nate & Frenchy!
 2. Get in touch with your biorhythms!
