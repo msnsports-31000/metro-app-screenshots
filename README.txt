@@ -76,6 +76,13 @@ CNN App for Windows:
 2.Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.
 3.Follow up-to-the-minute reporting with breaking news and live video.
 4.Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app.
+Collection of Windows Startup Sounds:
+1.Gallery
+2.Windows XP
+3.Windows 98
+4.Windows Vista
+5.Welcome screen
+6.Application help and support
 Cut The Rope:
 1.Gift Box
 2.Fabric Box
