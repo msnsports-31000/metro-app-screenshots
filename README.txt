@@ -105,6 +105,9 @@ Dell | Getting Started with Windows 8:
 2.Video
 3.FAQs
 4.FAQ
+Digital Photo Frame for Windows
+1.Main page
+2.Edit page
 Files&Folders (Lite and Pro)
 1.Personalize your file browser with different themes.
 2.RAR, ZIP, 7z... open and extract all popular archive types with Files&Folders
@@ -113,7 +116,7 @@ Files&Folders (Lite and Pro)
 5.Look at your files differently.
 6.Files&Folders is fully functional in Snapped mode.
 7.Enhance your productivity with Search and Share Charms.
-8.Powerful media player for videos, music and pictures and documents.
+8.Powerful media player for videos, music and pictures and documents
 Flow Free:
 1.none
 2.none
