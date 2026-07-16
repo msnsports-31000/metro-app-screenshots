@@ -222,6 +222,15 @@ Particle System:
 1.Particle System
 2.Particle System II
 3.Letter Particle System
+PayPal Here
+1.Add items to Current Sale
+2.Add items to Current Sale
+3.Select Payment Method
+4.Accept PayPal Check-in Payments
+5.Accept Cash Payments
+6. Manage your Item Catalog
+7. View Sales Reports
+8.Adjust tax, tip, discount, and printed receipt settings
 PhotoEditor:
 1.Main Page
 PhotoWindow:
