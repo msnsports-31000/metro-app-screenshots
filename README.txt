@@ -136,6 +136,11 @@ Jetpack Joyride:
 2.Featuring crazy gadgets and vehicles.
 3.Say hello to Mr. Cuddles.
 4.Watch out for missiles!
+Little Artist:
+1.Main screen
+2.Drawing room
+3.Drawing room
+4.Drawing room
 Metro Commander:
 1.Main page, Classic theme
 2.App bars, Dark Knight theme
@@ -211,9 +216,9 @@ newsXpresso:
 8.Cover photos of headline pictures
 9.YouTube Video
 Particle System:
-1. Particle System
-2. Particle System II
-3. Letter Particle System
+1.Particle System
+2.Particle System II
+3.Letter Particle System
 PhotoEditor:
 1.Main Page
 PhotoWindow:
