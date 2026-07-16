@@ -22,7 +22,7 @@ Adobe Reader Touch:
 6.Viewing a Note
 7.PDF Forms
 8.Save
-1.Angry Birds Star Wars
+1.Angry Birds Space
 2.Birds with Lightsabers!
 3.The Classic Trilogy Relived!
 4.Epic Land and Space Battles! 
