@@ -214,6 +214,8 @@ Particle System:
 1. Particle System
 2. Particle System II
 3. Letter Particle System
+PhotoEditor:
+1.Main Page
 PhotoWindow:
 1.Top page.
 2.Thumbnail View (Medium)
@@ -240,6 +242,12 @@ RemindMe for Windows:
 5.Live tiles, notifications, secondary tiles, and lock screen integration with Windows 8.1
 6.View all of your reminders at a glance. See those countdowns? They update live!
 7.Keep track of your reminders while doing other things with snap view
+Samsung Printer Experience
+1.List up installed printers and MFP devices.
+2.Preview and Scan with flatbed or auto document feeder.
+3.Edit scanned images and save them with selected options.
+4.View and Share scanned images and documents
+5.Configure advanced settings of print driver
 Surface Trackpad Settings:
 1.Control tap gestures
 The Cat in the Hat - Dr. Seuss:
