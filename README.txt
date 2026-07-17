@@ -26,7 +26,17 @@ Adobe Reader Touch:
 2.Birds with Lightsabers!
 3.The Classic Trilogy Relived!
 4.Epic Land and Space Battles! 
-5.Join the Final Battle! 
+5.Join the Final Battle!
+Asparion Clock(Clock (Live tile, alarm timer) )
+1.What your start screen could look like
+2.The different styles
+3.Over 42 date/time formats
+4.Snapped view
+5.Asparion Clock
+6.Custom tile
+7.Alarm
+8.Timer
+9.The different styles
 Bank Of America:
 1.Account Details
 2.Billpay
