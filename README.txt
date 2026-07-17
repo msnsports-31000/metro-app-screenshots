@@ -299,14 +299,18 @@ Vinyle:
 5. Alternatives
 6. Video View
 7. Dialogs
-Windows Help+Tips
+Windows Help+Tips:
 1. All the info you need to get going with the latest version of Windows.
 2. Learn about Start, printing, using apps, and more.
-Windows Reading List
+Windows Reading List:
 1. See the content you’ve added over time at a glance
 2. Keep your list to the side as you view content you've added
 3. Use categories to filter your items and easily organize your list
-Youtube FM
+Windows Scan
+1.Using a flatbed scanner, preview the image and select the area you want to scan.
+2.Set scanning options.
+3.Set more scanning options.
+Youtube FM:
 1. Search Music
 2. Search Music
 3. Play Music
