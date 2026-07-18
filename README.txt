@@ -27,6 +27,16 @@ Adobe Reader Touch:
 3.The Classic Trilogy Relived!
 4.Epic Land and Space Battles! 
 5.Join the Final Battle!
+Asparion Calculator(Calculator⁺)
+1.Asparion Calculator
+2.Main screen
+3.Asparion Calculator
+4.Asparion Calculator
+5.A Style
+6.Asparion Calculator
+7.A Style
+8.A Style
+9.Snapped View
 Asparion Clock(Clock (Live tile, alarm timer) )
 1.What your start screen could look like
 2.The different styles
