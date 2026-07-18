@@ -140,6 +140,15 @@ Fruit Ninja:
 4.Slice fruit to get exciting combos!
 5.So juicy!
 6.Avoid bombs!
+FX Networks
+1.FX Spotlight
+2.Sons of Anarchy
+3.Sons of Anarchy - Live Conversation
+4.Sons of Anarchy - Cloud View
+5.Anger Management
+6.Louie
+7.Wilfred
+8.My Collection
 How the Grinch Stole Christmas! - Dr. Seuss:
 1.How the Grinch Stole Christmas! - Dr. Seuss, main menu
 2.Tap individual words and pictures to hear them read aloud
