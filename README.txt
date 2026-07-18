@@ -148,6 +148,11 @@ Flow Free:
 3.none
 4.none
 5.none
+FreshPictures:
+1.Browse through the most popular Reddit pictures in style.
+2.The live tile gives you inspiration right on your start screen.
+3.Get fresh pictures from beautiful places all over the world.
+4.Choose from thousands of subreddits and add your favourites
 Fruit Ninja:
 1.Combo BLITZ!
 2.Arcade mode has special bananas!
