@@ -37,6 +37,8 @@ Asparion Clock(Clock (Live tile, alarm timer) )
 7.Alarm
 8.Timer
 9.The different styles
+Compass+(Asparion Compass)
+1.Asparion Compass
 Bank Of America:
 1.Account Details
 2.Billpay
