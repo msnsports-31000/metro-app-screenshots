@@ -118,7 +118,10 @@ Dell | Getting Started with Windows 8:
 Digital Photo Frame for Windows
 1.Main page
 2.Edit page
-Files&Folders (Lite and Pro)
+Epson Print and Scan
+1.Photo Print
+2.Scan
+Files&Folders (All Versions)
 1.Personalize your file browser with different themes.
 2.RAR, ZIP, 7z... open and extract all popular archive types with Files&Folders
 3.All in one file browser. (promotion image)
