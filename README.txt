@@ -161,6 +161,8 @@ Jetpack Joyride:
 2.Featuring crazy gadgets and vehicles.
 3.Say hello to Mr. Cuddles.
 4.Watch out for missiles!
+LG Easy Guide:
+1.App Screen
 Little Artist:
 1.Main screen
 2.Drawing room
