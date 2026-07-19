@@ -93,6 +93,13 @@ BLINK Cliplets:
 3.Create your own cliplet by using simple painting gestures to add motion to a stationary background.
 4.Share your cliplets with just your friends or the whole world, using BLINK.so.cl, Facebook, or Twitter.
 5.View, edit, share, or export any of your cliplet projects from within the application.
+CANON Inkjet Print Utility
+1.You can check the printer status and ink model numbers.
+CANON Wiki Lens
+1.Main menu
+2.Group items
+3.Splash screen
+4.Group detail
 CNN App for Windows:
 1.Stay informed with the latest headlines and original stories from around the globe.
 2.Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.
