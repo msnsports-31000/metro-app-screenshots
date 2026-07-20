@@ -149,6 +149,12 @@ Files&Folders (All Versions)
 6.Files&Folders is fully functional in Snapped mode.
 7.Enhance your productivity with Search and Share Charms.
 8.Powerful media player for videos, music and pictures and documents
+FlightHero Pro
+1.flight search
+2.flight detalis
+3.airport detalis
+4.Flight board
+5.flights favorites
 Flow Free:
 1.none
 2.none
