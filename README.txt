@@ -87,6 +87,15 @@ Beat The Boss 2:
 2.Physics Simulated fun!
 3.Laugh your face off funny: These aren't jokes for your grandma.
 4.New Town Map: 9 interactive stages, each with their own bosses and secrets to discover.
+Bill Dashboard:
+1.Dashboard
+2.Dashboard First Use
+3.Bill Mantenance
+4.History / Summary
+5.Summary Period
+6.Snapped View
+7.Backup / Restore
+8.Help
 BLINK Cliplets:
 1.Start by creating a cliplet of your own, or by viewing others' creations.
 2.Get inspired by featured cliplets in the gallery.
