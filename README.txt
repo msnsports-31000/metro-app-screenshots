@@ -7,7 +7,7 @@ Starting from A to Z, and 1 to 10.
 4.Built-in media player
 5.Built-in document viewer
 6.Use two apps at the same time
-Adobe Photoshop Express:
+Adobe Photoshop Express(toshiba version only):
 1.Explore how easy it is to enhance your photos - from cropping to one-touch auto fix and cool looks.
 2.Crop, straighten and rotate to put the focus just where you want it.
 3.Enjoy more than 15 creative, one-touch looks that provide eye-catching effects.
