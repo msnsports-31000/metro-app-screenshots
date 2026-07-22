@@ -355,6 +355,10 @@ Vinyle:
 Windows Help+Tips:
 1. All the info you need to get going with the latest version of Windows.
 2. Learn about Start, printing, using apps, and more.
+Windows Photos:
+1.Get all of your photos in one place
+2.Browse through your albums
+3.Thumbnails view helps you spot a specific picture quickly
 Windows Reading List:
 1. See the content you’ve added over time at a glance
 2. Keep your list to the side as you view content you've added
