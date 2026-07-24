@@ -102,6 +102,16 @@ BLINK Cliplets:
 3.Create your own cliplet by using simple painting gestures to add motion to a stationary background.
 4.Share your cliplets with just your friends or the whole world, using BLINK.so.cl, Facebook, or Twitter.
 5.View, edit, share, or export any of your cliplet projects from within the application.
+Bookivser:
+1.The home screen displays 5 last opened books and last used online catalogs
+2.This image demonstrates the text selection, a bookmark and font customization.
+3.The page turning is realistic, and the cover image from the book file is used as a cover which makes the user experience more real.
+4.You can select a night color theme to read in the dark.
+5.Menu
+6.Additional information about the book and actions you can perform
+7.The books stored on your device can be grouped or sorted in different ways like by author...
+8. ... or by genre
+9.Thousands of books are accessible via online catalogs. And you can add your own OPDS catalogs.
 CANON Inkjet Print Utility
 1.You can check the printer status and ink model numbers.
 CANON Wiki Lens
