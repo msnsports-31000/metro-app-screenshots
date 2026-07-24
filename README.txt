@@ -304,6 +304,13 @@ PayPal Here
 6. Manage your Item Catalog
 7. View Sales Reports
 8.Adjust tax, tip, discount, and printed receipt settings
+Periodic Table:
+1.Main page - Periodic Table layout. You can choose what appears in each tile using the appbar
+2.Element detailed information
+3.Element detailed information
+4.Pin elements to the Start screen
+5.Snap view - grouped by 1st letter
+6.Element details snap view
 PhotoEditor:
 1.Main Page
 PhotoWindow:
