@@ -357,6 +357,12 @@ Todo:
 3.Snapped view lists
 4.Snapped view tasks
 5.Snapped view tasks details
+Torrex:
+1.Streaming: You can immediately start to watch a movie or listen to music without waiting for download completion
+2.Download any torrent files and magnet links
+3.A full-featured BitTorrent client for Windows Store
+4.Rich customization and personalization capabilities
+5.Files continue to download in the snapped mode
 Verizon Connection Manager:
 1.Home screen
 2.Device information
