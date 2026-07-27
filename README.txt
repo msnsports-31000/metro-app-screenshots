@@ -341,6 +341,7 @@ Reddit2Go:
 5.You can view a story in split mode to see it and its comments at the same time
 6.The light theme.
 7.In snapped mode, clicking a link launches it in the browser. You can also open its comments.
+8.Portrait mode.
 RemindMe for Windows:
 1.Easily create reminders for absolute times. You can even set them to repeat themselves automatically.
 2.Easily create reminders for a relative time, like 20 minutes. Great for countdowns!
