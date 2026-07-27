@@ -230,11 +230,6 @@ Movie Moments:
 3.Choose a style that suits the mood.
 4.Emphasize words and phrases to make your point.
 5.Make your home videos look like professional movies in minutes.
-My Verizon Mobile:
-1.Profile
-2.Device Info
-3.Usage Overview
-4.Home
 MSN Food & Drink:
 1.The essential tools and content at your fingertips.
 2.Hundreds of thousands of recipes with beautiful images, step-by-step instructions and an integrated Shopping List.
@@ -253,6 +248,21 @@ MSN Health & Fitness:
 6.Personalize your app based on your fitness and nutritional goals
 7.Associate symptoms with possible conditions.
 8.Learn more about human anatomy
+MSN Travel:
+1.Come explore the world – whether around the corner or around the globe.
+2.Get the latest, most inspiring travel stories, videos and photo galleries.
+Мой Баланс (My Balance)
+1.Main application view
+2.Main application view
+3.Account Settings
+4.Operators
+5.Application Settings
+6.Application apperance settings
+My Verizon Mobile:
+1.Profile
+2.Device Info
+3.Usage Overview
+4.Home
 Nate & Frenchy's Life Coach:
 1. Get excellent (and often hilarious) life changing advice from Nate & Frenchy!
 2. Get in touch with your biorhythms!
