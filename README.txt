@@ -96,6 +96,11 @@ Bill Dashboard:
 6.Snapped View
 7.Backup / Restore
 8.Help
+テレBing(Bing TV):
+1.使い勝手が良くて美しい番組表アプリへようこそ！
+2.見やすく使いやすい番組ビュー
+3.気になる番組を見逃さない検索機能とアラーム機能
+4.テレビの音声をキャッチして番組詳細情報を表示
 BLINK Cliplets:
 1.Start by creating a cliplet of your own, or by viewing others' creations.
 2.Get inspired by featured cliplets in the gallery.
