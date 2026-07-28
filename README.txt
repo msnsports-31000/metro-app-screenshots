@@ -217,6 +217,14 @@ Little Artist:
 2.Drawing room
 3.Drawing room
 4.Drawing room
+Lync
+1.Home screen
+2.Contacts screen
+3.IM
+4.Video call
+5.Gallery view of a Lync Meeting
+6.Presentation view of a Lync Meeting
+7.Lync side-by-side with Bing
 Metro Commander:
 1.Main page, Classic theme
 2.App bars, Dark Knight theme
@@ -356,6 +364,10 @@ Samsung Printer Experience
 3.Edit scanned images and save them with selected options.
 4.View and Share scanned images and documents
 5.Configure advanced settings of print driver
+SharePoint Newsfeed
+1.Newsfeed
+2.Thread view
+3.Posting
 Surface Trackpad Settings:
 1.Control tap gestures
 The Cat in the Hat - Dr. Seuss:
