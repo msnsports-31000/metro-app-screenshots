@@ -237,6 +237,16 @@ Metro Commander:
 4.Preferences, Sunny Day theme
 5.Preview
 6.Viewer
+Microsoft Project Siena:
+1.Easily modify screens and visuals by editing their Design, Data, or Behavior properties
+2.Every app starts with a blank canvas
+3.Select from a variety of robust Visuals to create stunning apps
+4.Quickly switch between screens, rearrange, delete, or add multiple screens to your app
+5.Add Data to your app from various sources
+6.Preview your Data, Media, and Collections in the backstage
+7.Quickly switch between visuals in your app from either the dropdown menu or by selecting them on the canvas
+8.Use Excel-like expressions to add custom logic to your app
+9.Easily add advanced capabilities to your app using the pen, camera, and mic controls
 Movie Moments:
 1.Pick your favorite 60 seconds. You can trim from the beginning, middle, or end.
 2.Highlight your favorite moments with fun, colorful captions.
