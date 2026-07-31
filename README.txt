@@ -172,7 +172,7 @@ Files&Folders (All Versions)
 5.Look at your files differently.
 6.Files&Folders is fully functional in Snapped mode.
 7.Enhance your productivity with Search and Share Charms.
-8.Powerful media player for videos, music and pictures and documents
+8.Powerful media player for videos, music and pictures and documents.
 FlightHero Pro
 1.flight search
 2.flight detalis
