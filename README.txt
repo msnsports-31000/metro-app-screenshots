@@ -210,6 +210,15 @@ How the Grinch Stole Christmas! - Dr. Seuss:
 1.How the Grinch Stole Christmas! - Dr. Seuss, main menu
 2.Tap individual words and pictures to hear them read aloud
 3.Words highlight with professional narration
+Jack Of Tools:
+1.Speedometer in full screen
+2.Compass in full screen
+3.Compass snapped to the right
+4.Speedometer snapped to the right
+5.Keep your tools handy and snapped
+6.Level in portrait
+7.Speedometer in portrait
+8.Location snapped to the right
 Jetpack Joyride:
 1.Collect coins whilst avoiding Zappers!
 2.Featuring crazy gadgets and vehicles.
