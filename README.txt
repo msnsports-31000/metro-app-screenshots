@@ -246,6 +246,15 @@ Metro Commander:
 4.Preferences, Sunny Day theme
 5.Preview
 6.Viewer
+MetroTube:
+1.Access your personal YouTube account
+2.Customize the main hub with content you want to see
+3.Use semantic zoom to quickly jump around the main hub
+4.Effortless, efficient browsing experience
+5.All related video content is at your fingertips
+6.Watch videos in Full HD
+7.A great experience on a tablet in portrait mode
+8.Watch videos while you surf the web
 Microsoft Project Siena:
 1.Easily modify screens and visuals by editing their Design, Data, or Behavior properties
 2.Every app starts with a blank canvas
