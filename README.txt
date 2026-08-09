@@ -129,6 +129,8 @@ CNN App for Windows:
 2.Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.
 3.Follow up-to-the-minute reporting with breaking news and live video.
 4.Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app.
+Coca-Cola FM:
+1.Coca-Cola FM
 Collection of Windows Startup Sounds:
 1.Gallery
 2.Windows XP
