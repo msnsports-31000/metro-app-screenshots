@@ -421,6 +421,11 @@ Torrex:
 3.A full-featured BitTorrent client for Windows Store
 4.Rich customization and personalization capabilities
 5.Files continue to download in the snapped mode
+VAIO Care:
+1.About Your VAIO
+2.Introduction to VAIO Care
+3.User Guide
+4.System Information
 Verizon Connection Manager:
 1.Home screen
 2.Device information
