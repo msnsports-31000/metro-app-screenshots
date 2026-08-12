@@ -160,9 +160,18 @@ Dell | Getting Started with Windows 8:
 2.Video
 3.FAQs
 4.FAQ
-Digital Photo Frame for Windows
+Digital Photo Frame for Windows:
 1.Main page
 2.Edit page
+Discourse:
+1.Share articles and sections using the share charm
+2.Add your own custom feeds
+3.Use different themes that suit your taste
+4.Read your news articles in full detail
+5.Create your own news sections using any feed you like
+6.Twitter lists and feeds too!
+7.Stay in sync between your PCs by saving to SkyDrive
+8.All views are supported including snap, portrait and landscape
 Epson Print and Scan
 1.Photo Print
 2.Scan
@@ -376,6 +385,14 @@ PhotoWindow:
 7.You can adjust color, zoom in, zoom out, move the cropping area. It is determined by tap the back button.
 8.The selected photo has been placed.
 9.Slideshow
+PODCASTS!:
+1.The landing page with feature and recent!
+2.Just start typing to search!
+3.Easy to browse episode lists!
+4.Supports audio and video podcasts!
+5.Easy to use playback controls!
+6.Choose from five different color schemes!
+7.Fully supports snapped mode!
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
