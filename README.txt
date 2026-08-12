@@ -430,6 +430,10 @@ Verizon Connection Manager:
 1.Home screen
 2.Device information
 3.Help
+Video:
+1.My videos
+2.Movie Details
+3.My videos
 Vinyle:
 1. Search Music
 2. Search Music
