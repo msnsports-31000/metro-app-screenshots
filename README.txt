@@ -459,6 +459,12 @@ Vinyle:
 5. Alternatives
 6. Video View
 7. Dialogs
+Windows 8 Cheat Keys:
+1.Multiple shortcuts and tips per day. Mark your favorites to find them easily.
+2.Share tips with your friends and coworkers.
+3.Search from the available tips and shortcuts.
+4.Notifications and tile updates let you know when new tips or shortcuts have arrived.
+5.Keep it snappy while exploring.
 Windows Help+Tips:
 1. All the info you need to get going with the latest version of Windows.
 2. Learn about Start, printing, using apps, and more.
