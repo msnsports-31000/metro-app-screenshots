@@ -266,6 +266,16 @@ MetroTube:
 6.Watch videos in Full HD
 7.A great experience on a tablet in portrait mode
 8.Watch videos while you surf the web
+Microsoft Jigsaw
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
 Microsoft Project Siena:
 1.Easily modify screens and visuals by editing their Design, Data, or Behavior properties
 2.Every app starts with a blank canvas
