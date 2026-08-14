@@ -267,15 +267,15 @@ MetroTube:
 7.A great experience on a tablet in portrait mode
 8.Watch videos while you surf the web
 Microsoft Jigsaw
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1.none
+2.none
+3.none
+4.none
+5.none
+6.none
+7.none
+8.none
+9.none
 Microsoft Project Siena:
 1.Easily modify screens and visuals by editing their Design, Data, or Behavior properties
 2.Every app starts with a blank canvas
@@ -412,6 +412,25 @@ Reddit2Go:
 6.The light theme.
 7.In snapped mode, clicking a link launches it in the browser. You can also open its comments.
 8.Portrait mode.
+Reddit on ReddHub:
+1.The standard home screen
+2.First launch screen allows you to log in or use the app without logging in
+3.The standard screen when the app is launched
+4.Live preview and commenting
+5.An example of some of the features provided
+6.Gallery mode with thumbnails and captions
+7.subreddits listing and embedded images
+8.Night mode theme
+Reddit ReddHubV2:
+1.Find the content you want from millions of submissions
+2.The full power of reddit with the simplicity of an app
+3.Full imgur gallery support
+4.Rich and elegant commenting
+5.Multi-account support
+6.Subreddit autocomplete, subscribe, unsubscribe, pin
+7.Ability to share-to ReddHub
+8.Many links supported in-line for comments, so you can read while you browse
+9.Rich snapped, 50/50, and portrait mode experience
 RemindMe for Windows:
 1.Easily create reminders for absolute times. You can even set them to repeat themselves automatically.
 2.Easily create reminders for a relative time, like 20 minutes. Great for countdowns!
