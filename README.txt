@@ -250,6 +250,10 @@ Lync
 5.Gallery view of a Lync Meeting
 6.Presentation view of a Lync Meeting
 7.Lync side-by-side with Bing
+Mediafire:
+1.All your stuff, anywhere you need it. Get up to 50 GB of free space!
+2.Automatically back up all of your camera photos and videos.
+3.Easily share through email, SMS, or your favorite chat app.
 Metro Commander:
 1.Main page, Classic theme
 2.App bars, Dark Knight theme
