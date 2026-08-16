@@ -74,6 +74,11 @@ BBC Good Food – Healthy recipes cookbook
 5.Recipes are simple to follow with the app's clean layout.
 6.Mark off your ingredients or steps as you're done.
 7.Keep track of your favourite recipes and be tempted by seeing them on your live tiles.
+BBC Good Food Magazine:
+1.Homepage
+2.High-Resolution Images
+3.Issue Thumbnails
+4.High-Resolution Images
 BBC Good Food – Quick recipes cookbook
 1.There are no excuses with our quick recipes.
 2.Not sure what that really means? The included glossary is there to help.
