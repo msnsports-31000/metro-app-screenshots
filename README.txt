@@ -503,6 +503,13 @@ Video:
 1.My videos
 2.Movie Details
 3.My videos
+Vimeo:
+1.Hub
+2.Hub Semantic Zoom
+3.Logged In Hub
+4.Staff Picks Channel
+5.My Stuff
+6.Video Player
 Vinyle:
 1. Search Music
 2. Search Music
