@@ -490,6 +490,15 @@ Torrex:
 3.A full-featured BitTorrent client for Windows Store
 4.Rich customization and personalization capabilities
 5.Files continue to download in the snapped mode
+Tweetro:
+1.View your entire Twitter account(s) at a glance
+2.Add custom elements to your hub
+3.Semantic zoom gives you a bird's eye view of your Twitter account.. see what we did there ;)?
+4.Browse photo tweets via galler
+5.Load photos and web links inline
+6.Seamlessly view tweet links via custom in-app browser
+7.Multi-task like a Core i7 with snapped twitter feeds
+8.Sit back and relax while reading large tweets in portrait mode
 VAIO Care:
 1.About Your VAIO
 2.Introduction to VAIO Care
