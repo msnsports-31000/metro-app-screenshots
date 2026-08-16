@@ -1,4 +1,4 @@
-Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly
+Here are the screenshot names(or captions) for the following apps, Please note this might not get updated regularly!
 Starting from A to Z, and 1 to 10.
 8Zip:
 1.Compression options
