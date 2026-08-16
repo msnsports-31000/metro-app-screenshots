@@ -49,6 +49,13 @@ Asparion Clock(Clock (Live tile, alarm timer) )
 9.The different styles
 Compass+(Asparion Compass)
 1.Asparion Compass
+Periodic Table (Chemistry) (Asparion Periodic Table)
+1.Periodic Table
+2.Search function
+3.Details
+4.Snapped view
+5.Benfey
+6.Abubakr
 Bank Of America:
 1.Account Details
 2.Billpay
