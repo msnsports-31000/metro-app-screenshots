@@ -254,6 +254,10 @@ Jetpack Joyride:
 2.Featuring crazy gadgets and vehicles.
 3.Say hello to Mr. Cuddles.
 4.Watch out for missiles!
+Jukerboxer:
+1.Your playlist is ordered by number of requests
+2.Add songs to the playlist from your Music library
+3.Jukeboxer can be used in snapped view
 LG Easy Guide:
 1.App Screen
 Little Artist:
