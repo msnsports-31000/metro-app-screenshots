@@ -375,6 +375,10 @@ Nate & Frenchy's Translator
 3. Share content to and from any app that supports text, including web pages!
 4. Support for special character sets, and spoken translations for the most common languages worldwide!
 5. Share translated content into any Share supported app, including third-party social apps!
+Netflix:
+1.Home screen
+2.Show detail
+3.Watching a movie on Netflix
 Network Speed Test:
 1.Press start and then wait for the speed tests to finish.
 2.See what kinds of activities your network connection allows, such as stream high-quality video.
