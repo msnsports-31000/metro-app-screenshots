@@ -236,6 +236,13 @@ FX Networks
 6.Louie
 7.Wilfred
 8.My Collection
+Groove: Smart Music Player:
+1.Home screen filled with suggested playlists based on your listening habits.
+2.Home screen filled with suggested playlists based on your listening habits.
+3.Downloads artist photos and missing album artworks.
+4.Automatically organises your music in tags (pop, metal, indie, electronic, etc.).
+5.Get a beautiful view of what you're currently listening to in full screen mode. Use swipe gestures to skip between songs.
+6.Play a mix and snap Groove to see upcoming songs while using other apps.
 How the Grinch Stole Christmas! - Dr. Seuss:
 1.How the Grinch Stole Christmas! - Dr. Seuss, main menu
 2.Tap individual words and pictures to hear them read aloud
