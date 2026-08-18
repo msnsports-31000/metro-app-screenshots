@@ -347,6 +347,12 @@ MSN Health & Fitness:
 MSN Travel:
 1.Come explore the world – whether around the corner or around the globe.
 2.Get the latest, most inspiring travel stories, videos and photo galleries.
+Multimedia 8:
+1.Play your favorite media using Multimedia 8
+2.Advanced features such as 3D video, SRT subtitles support and transcoding
+3.Search for media in your libraries and media servers
+4.Create and manage media playlists
+5.Custom color themes supported
 Мой Баланс (My Balance)
 1.Main application view
 2.Main application view
@@ -423,6 +429,16 @@ Periodic Table:
 6.Element details snap view
 PhotoEditor:
 1.Main Page
+PhotoFunia:
+1.Choose an effect...
+2.Effect "Warhol"
+3.Choose your photo...
+4.Here we go!
+5.Another effect - "Lomography"
+6.Hero we go!
+7.One more effect - "Tryptich"
+8.Category "Galleries"
+9.Lots of effects
 PhotoWindow:
 1.Top page.
 2.Thumbnail View (Medium)
