@@ -366,7 +366,12 @@ Multimedia 8:
 4.Operators
 5.Application Settings
 6.Application apperance settings
-My Server 2012 R2:
+My Server:
+1.My server
+2.Shared folders
+3.Pictures
+4.Devices
+My Server R2:
 1.My Server
 2.Shared Folders
 3.Remote Connection
