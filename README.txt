@@ -366,6 +366,12 @@ Multimedia 8:
 4.Operators
 5.Application Settings
 6.Application apperance settings
+My Server 2012 R2:
+1.My Server
+2.Shared Folders
+3.Remote Connection
+4.Pictures
+5.Users
 My Verizon Mobile:
 1.Profile
 2.Device Info
