@@ -247,6 +247,12 @@ How the Grinch Stole Christmas! - Dr. Seuss:
 1.How the Grinch Stole Christmas! - Dr. Seuss, main menu
 2.Tap individual words and pictures to hear them read aloud
 3.Words highlight with professional narration
+Jack Of Time:
+1.Show local time in 12 hour format with optional date and timezone. Size is adjustable.
+2.Show local time in 12 hour format with optional date and timezone. Size is adjustable.
+3.Show the time, a timer, or stopwatch while snapped.
+4.Show UTC time in 12 hour format with optional date and timezone. Size is adjustable.
+5.Show local time in 12 hour format with an app snapped to the right or left.
 Jack Of Tools:
 1.Speedometer in full screen
 2.Compass in full screen
