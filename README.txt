@@ -135,6 +135,15 @@ Bookivser:
 6.Additional information about the book and actions you can perform
 7.The books stored on your device can be grouped or sorted in different ways like by author...
 8. ... or by genre
+Bookviser Reader:
+1.Main screen
+2.Reading experience
+3.In-book controls
+4.Books details
+5.Color highlights with a possibility to attach a note
+6.List of highlights and notes
+7.Night mode in full screen
+8.Bookshelf with different grouping and sorting options
 9.Thousands of books are accessible via online catalogs. And you can add your own OPDS catalogs.
 CANON Inkjet Print Utility
 1.You can check the printer status and ink model numbers.
