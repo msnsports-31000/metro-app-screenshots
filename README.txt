@@ -529,6 +529,22 @@ SharePoint Newsfeed
 1.Newsfeed
 2.Thread view
 3.Posting
+Skype Blog:
+1.News
+2.Videos
+3.Articles
+Skype Video:
+1.Choose your video
+2.Video playback
+3.Video playback
+4.Video playback
+5.Video playback
+6.Video playback
+Skype WiFi:
+1.Welcome to Skype WiFi.
+2.Get online (at a Boingo hotspot)
+3.Get online (at a BT Openzone hotspot)
+4.Get online (at a Tomizone hotspot)
 Surface Trackpad Settings:
 1.Control tap gestures
 The Cat in the Hat - Dr. Seuss:
