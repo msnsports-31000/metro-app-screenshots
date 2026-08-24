@@ -245,6 +245,13 @@ FX Networks
 6.Louie
 7.Wilfred
 8.My Collection
+Grid8:
+1.The menu
+2.An overview of all levels and those records
+3.The self-explanatory menu
+4.While solving a level you can set new records
+5.The field includes several different blocks.
+6.Solved levels are coloure animated
 Groove: Smart Music Player:
 1.Home screen filled with suggested playlists based on your listening habits.
 2.Home screen filled with suggested playlists based on your listening habits.
@@ -483,6 +490,11 @@ PODCASTS!:
 5.Easy to use playback controls!
 6.Choose from five different color schemes!
 7.Fully supports snapped mode!
+Reader:
+1.Swipe up from the bottom or right-click to see options
+2.View documents side-by-side
+3.Navigate through documents easily
+4.Choose from a list of recently opened documents
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
