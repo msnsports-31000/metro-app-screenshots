@@ -152,6 +152,12 @@ CANON Wiki Lens
 2.Group items
 3.Splash screen
 4.Group detail
+Clipboard+:
+1.Learn how to use it.
+2.Your are free to add some text
+3.my clips
+4.my clips, in snap view
+5.share some text to use it later
 CNN App for Windows:
 1.Stay informed with the latest headlines and original stories from around the globe.
 2.Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.
