@@ -381,6 +381,22 @@ Multimedia 8:
 3.Search for media in your libraries and media servers
 4.Create and manage media playlists
 5.Custom color themes supported
+Music(Xbox Music):
+1.Browse your music collection
+2.Play artist radio
+3.Explore the Xbox Music catalog
+4.See the songs that are playing now
+5.Check out artist pages
+6.Create a playlist by sharing a webpage to Xbox Music
+Music Maker Jam:
+1.Music style Drum & Bass
+2.Music style Hip Hop
+3.Music style Movie Score
+4.Select music styles and projects
+5.Loop Selector
+6.Step sequencer for melodic progressions
+7.Filter effects
+8.Music style Dubstep
 Мой Баланс (My Balance)
 1.Main application view
 2.Main application view
