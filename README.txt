@@ -599,7 +599,7 @@ Verizon Connection Manager:
 1.Home screen
 2.Device information
 3.Help
-Video:
+Video(Xbox Video):
 1.My videos
 2.Movie Details
 3.My videos
