@@ -520,6 +520,16 @@ Reader:
 2.View documents side-by-side
 3.Navigate through documents easily
 4.Choose from a list of recently opened documents
+Recipe Keeper:
+1. Home page
+2. Add new recipes
+3. View recipes
+4. Import recipes from popular websites
+5. Add recipe ingredients straight to your shopping list
+6. Supports multiple shopping lists.
+7. Share your recipes and shopping lists across all your Windows 8 and Windows Phone 8 devices
+8. Add your own courses and categories to organize recipes the way you want
+9. Create up to 4 timers
 Reddit2Go:
 1.View links on the left, story or comments on the right
 2.Bring up the sidebar content to the current subreddit.
