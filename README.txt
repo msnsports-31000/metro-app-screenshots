@@ -653,6 +653,12 @@ Windows 8 Cheat Keys:
 3.Search from the available tips and shortcuts.
 4.Notifications and tile updates let you know when new tips or shortcuts have arrived.
 5.Keep it snappy while exploring.
+Windows Calculator:
+1.Do basic math calculations with ease
+2.Use powerful scientific calculator functions
+3.Quickly convert between different units
+4.Use memory to store numbers and reuse them for other calculations
+5.Do conversion and calculations side by side with your other apps
 Windows Help+Tips:
 1. All the info you need to get going with the latest version of Windows.
 2. Learn about Start, printing, using apps, and more.
