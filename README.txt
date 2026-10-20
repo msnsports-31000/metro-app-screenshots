@@ -209,6 +209,12 @@ Discourse:
 Epson Print and Scan
 1.Photo Print
 2.Scan
+Facebook:
+1.News Feed
+2.Photos
+3.Album
+4.Messaging
+5.Timeline
 Files&Folders (All Versions)
 1.Personalize your file browser with different themes.
 2.RAR, ZIP, 7z... open and extract all popular archive types with Files&Folders
