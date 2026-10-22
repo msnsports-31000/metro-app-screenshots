@@ -363,6 +363,24 @@ Movie Moments:
 3.Choose a style that suits the mood.
 4.Emphasize words and phrases to make your point.
 5.Make your home videos look like professional movies in minutes.
+MSN News:
+1.MSN News – See the day's top stories and trending topics.
+2.News Hub – MSN brings you the best brands around the world.
+3.Read articles with rich imagery and videos.
+4.Personalize News app with sources that matter to you.
+5.Add a source or RSS.
+6.Customize Your News – Get the news you care about most by adding, removing and re-ordering sections.
+7.View the news with our selection of latest videos.
+8.Add A Topic – Pick topics you care about and follow stories about them.
+MSN Sports:
+1.Check out your favorite team.
+2.View top stories.
+3.Personalize your experience to view scores across sports and track the teams you care about most.
+4.View videos and slideshows.
+5.In-depth in game coverage for popular sports.
+6.Check out your favorite player.
+7.Check out in-depth schedule and standings for each individual sport.
+8.In-depth in game coverage for popular sports.
 MSN Food & Drink:
 1.The essential tools and content at your fingertips.
 2.Hundreds of thousands of recipes with beautiful images, step-by-step instructions and an integrated Shopping List.
