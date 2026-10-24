@@ -206,6 +206,11 @@ Discourse:
 6.Twitter lists and feeds too!
 7.Stay in sync between your PCs by saving to SkyDrive
 8.All views are supported including snap, portrait and landscape
+Dropbox:
+1.Dropbox, the home for all your stuff
+2.Access your stuff from anywhere, even when you're offline
+3.Instantly view your photos across all your devices
+4.Swipe right on any file or folder to share or modify it
 Epson Print and Scan
 1.Photo Print
 2.Scan
@@ -260,6 +265,14 @@ FX Networks
 Games(Xbox Games):
 1.Home
 2.Game info
+Good plan:
+1.Week view
+2.Week view, task preview
+3.Week view, adding new task
+4.Daily view
+5.Snap state
+6.Timetable editing, adding new lesson
+7.Settings
 Grid8:
 1.The menu
 2.An overview of all levels and those records
@@ -698,6 +711,13 @@ Windows Scan
 1.Using a flatbed scanner, preview the image and select the area you want to scan.
 2.Set scanning options.
 3.Set more scanning options.
+Wish - Shopping Made Fun
+1.A fine selection of clothing and more
+2.A fine selection of clothing and more
+3.A fine selection of clothing and more
+4.A fine selection of clothing and more
+5.A fine selection of clothing and more
+6.A fine selection of clothing and more
 Youtube FM:
 1. Search Music
 2. Search Music
