@@ -544,6 +544,16 @@ PhotoWindow:
 7.You can adjust color, zoom in, zoom out, move the cropping area. It is determined by tap the back button.
 8.The selected photo has been placed.
 9.Slideshow
+Plex:
+1.Home
+2.A movie
+3.Movie library
+4.Music library
+5.Playing music
+6.Switching users
+7.Playlists
+8.TED channel
+9.A series
 PODCASTS!:
 1.The landing page with feature and recent!
 2.Just start typing to search!
