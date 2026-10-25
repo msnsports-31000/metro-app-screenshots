@@ -165,6 +165,15 @@ CNN App for Windows:
 4.Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app.
 Coca-Cola FM:
 1.Coca-Cola FM
+Code Writer:
+1.The editor with app bars displayed, showing the tabbed document interface and access to editing commands|
+2.Easily create new or open existing documents from any accessible source (Twilight theme displayed)
+3.The normal appearance of the editor, with its chromeless UI, allowing you to focus on content.
+4.Configure the editor theme and other options such as font size
+5.Find/replace and advanced features like tabify lines and convert case are available
+6.The app supports snapped view, allowing you to work side-by-side with other apps
+7.Detailed product documentation and many configuration options are included
+8.The editor auto-adjusts its size when the soft keyboard displays.
 Collection of Windows Startup Sounds:
 1.Gallery
 2.Windows XP
