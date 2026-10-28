@@ -145,6 +145,9 @@ Bookviser Reader:
 7.Night mode in full screen
 8.Bookshelf with different grouping and sorting options
 9.Thousands of books are accessible via online catalogs. And you can add your own OPDS catalogs.
+Breaking News:
+1.See the latest news from across the globe.
+2.Keep an eye on the most recent news by keeping Breaking News in snap view.
 CANON Inkjet Print Utility
 1.You can check the printer status and ink model numbers.
 CANON Wiki Lens
