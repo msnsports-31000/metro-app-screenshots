@@ -625,6 +625,11 @@ RemindMe for Windows:
 5.Live tiles, notifications, secondary tiles, and lock screen integration with Windows 8.1
 6.View all of your reminders at a glance. See those countdowns? They update live!
 7.Keep track of your reminders while doing other things with snap view
+Remote Desktop:
+1.Access all your remote PCs and RemoteApp programs from the Home screen.
+2.Use the app commands to switch between sessions, and get to the Start screen, charms, and on-screen keyboard.
+3.Multitask by viewing thumbnails of your active sessions.
+4.Use thumbnails to quickly connect to remote PCs. You can also customize your settings for each remote connection.
 Samsung Printer Experience
 1.List up installed printers and MFP devices.
 2.Preview and Scan with flatbed or auto document feeder.
