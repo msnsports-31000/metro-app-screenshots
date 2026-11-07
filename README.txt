@@ -640,6 +640,16 @@ SharePoint Newsfeed
 1.Newsfeed
 2.Thread view
 3.Posting
+Shazam:
+1.Hub View
+2.Tagging
+3.Tag Result
+4.My Tags
+5.Semantic Zoom - pinch on My Tags view
+6.Lyrics
+7.Snap View: Hub
+8.Snap View: Result
+9.Snap View: Biography
 Skype Blog:
 1.News
 2.Videos
