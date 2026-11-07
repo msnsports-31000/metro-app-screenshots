@@ -650,6 +650,13 @@ Shazam:
 7.Snap View: Hub
 8.Snap View: Result
 9.Snap View: Biography
+Skype:
+1.Make group video calls for free.
+2.Make audio calls for free.
+3.Send a video message to share a quick thought or a candid moment.
+4.Continue the chat you’ve started – after you ended the call, keep going with instant messaging.
+5.Snap your chat to one side and free up the other for whatever needs doing.
+6.Pick up calls from your lock screen or Start screen.
 Skype Blog:
 1.News
 2.Videos
